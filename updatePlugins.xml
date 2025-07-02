@@ -1,0 +1,9 @@
+<plugins>
+    <plugin id="fanta-theme-ii"
+            url="https://<your-github-username>.github.io/fanta-theme-repo/fanta-dark-ii-final-theme.jar"
+            version="1.0.0"
+            name="Fanta Theme II">
+        <description>A beautiful idea black theme, fine-tuned based on the official idea theme, with a unified interface color.</description>
+        <vendor email="chamberssydney09@gmail.com" url="https://github.com/sydneychambers">sydneychambers</vendor>
+    </plugin>
+</plugins>
