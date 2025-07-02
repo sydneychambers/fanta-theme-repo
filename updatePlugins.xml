@@ -1,6 +1,6 @@
 <plugins>
     <plugin id="fanta-theme-ii"
-            url="https://<your-github-username>.github.io/fanta-theme-repo/fanta-dark-ii-final-theme.jar"
+            url="https://sydneychambers.github.io/fanta-theme-repo/fanta-dark-ii-final-theme.jar"
             version="1.0.0"
             name="Fanta Theme II">
         <description>A beautiful idea black theme, fine-tuned based on the official idea theme, with a unified interface color.</description>
